@@ -105,6 +105,7 @@
       {
         "id": "f6dbbf704b072bb2",
         "type": "tabs",
+        "dimension": 62.61859582542695,
         "children": [
           {
             "id": "a002bbb115d6ed5d",
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Tags/Backend.md",
+                "file": "4 - Main Notes/Operating Systems/Syscalls/Dupe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Backend"
+              "title": "Backlinks for Dupe"
             }
           },
           {
@@ -158,18 +159,38 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Tags/Backend.md"
+                "file": "4 - Main Notes/Operating Systems/Syscalls/Dupe.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Backend"
+              "title": "Outline of Dupe"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "ddf54e839e442704",
+        "type": "tabs",
+        "dimension": 37.381404174573056,
+        "children": [
+          {
+            "id": "5122b2b71b56e63d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,6 +206,8 @@
   "active": "83c348a8edbcb36a",
   "lastOpenFiles": [
     "4 - Main Notes/Operating Systems/Syscalls/Dupe.md",
+    "Untitled.md",
+    "1 - Class Notes",
     "4 - Main Notes/Operating Systems/Syscalls/Pipe.md",
     "4 - Main Notes/Operating Systems/Syscalls/images/pipe_chlid.png",
     "1 - Rough Notes/ToDoList.md",
@@ -217,12 +240,10 @@
     "4 - Main Notes/Network",
     "4 - Main Notes/General/Git.md",
     "4 - Main Notes/Devops/Tools/Docker.md",
-    "4 - Main Notes/Database",
     "6 - Main Notes/Network/TLS.md",
     "6 - Main Notes/Network/Rest Api.md",
     "6 - Main Notes/Network/HTTP.md",
     "6 - Main Notes/Bash.md",
-    "6 - Main Notes/Docker.md",
     "Untitled 1.canvas"
   ]
 }
