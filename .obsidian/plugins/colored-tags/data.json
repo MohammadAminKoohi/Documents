@@ -1,0 +1,27 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "Backend": 1,
+    "Database": 2,
+    "Devops": 3,
+    "Terminal": 4,
+    "Scripting": 5,
+    "Monitoring": 6,
+    "Network": 7,
+    "Layer7": 8,
+    "Security": 9,
+    "Layer4": 10,
+    "OS": 11,
+    "Kubernetes": 12
+  },
+  "_version": 3
+}
