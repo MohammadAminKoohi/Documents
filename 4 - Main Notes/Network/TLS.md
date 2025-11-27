@@ -130,7 +130,7 @@ TLS has undergone multiple revisions to address security vulnerabilities:
 #### 2. **Email (STARTTLS)**:
    - STARTTLS is a mechanism to secure email communication using TLS. It allows an email server to upgrade an existing insecure connection to a secure one.
    
-#### 3. **VPN (Virtual Private Networks)**:aPynV!hiCt
+#### 3. **VPN (Virtual Private Networks)**:
    - TLS can be used to secure VPN connections, protecting data traveling over public networks.
    
 #### 4. **Secure File Transfer**:
